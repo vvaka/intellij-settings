@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'fabric8-project'" />
-    <option name="defaultScopeName" value="Project 'fabric8-project'" />
-    <option name="SEARCH_SCOPE" value="Project 'fabric8-project'" />
+    <option name="customScope" value="Project 'proteus-quickstart'" />
+    <option name="defaultScopeName" value="Project 'proteus-quickstart'" />
+    <option name="SEARCH_SCOPE" value="Project 'proteus-quickstart'" />
   </component>
 </application>
