@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="e98623" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="userId" value="-321a01b7:1694218036b:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>
