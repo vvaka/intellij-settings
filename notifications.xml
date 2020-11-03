@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="Configure Kotlin: info notification" displayType="NONE" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Test Results: Run" displayType="NONE" shouldLog="false" />
   </component>
 </application>
